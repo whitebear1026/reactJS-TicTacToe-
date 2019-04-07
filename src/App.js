@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css'; 
 import Status from './components/Status'; 
 
+// My first react game!!
 
 class App extends Component {
   constructor(props){
